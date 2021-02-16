@@ -40,4 +40,4 @@ The vehicle trajectory also shows strong correlation between the desired (yellow
 <img src="./controller_output/trajectory.png" alt="trajectory" style="zoom: 200%;"/>
 </p>
 
-Due to the strong correlation, we can consider the PID controller sufficient for this project. Alternatively, an error state extended Kalman filter could have been implemented.
+Due to the strong correlation, we can consider the PID controller sufficient for this project.
