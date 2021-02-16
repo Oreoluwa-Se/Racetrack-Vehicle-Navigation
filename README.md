@@ -12,15 +12,15 @@ The goal is to control the vehicle to follow a race track by navigating through 
 ## Project Directory:
 The project directory should be similar to:
 ```
-├── controller_output				# contains output files [forward speed, trajectory feedback]
+├── controller_output 		# contains output files [forward speed, trajectory feedback]
 │   ├── ...
-│── video 				# stores video output from project                   
+│── video 					# stores video output from project                   
 │   ├── ...
-├── controller2d 				# contains implementation of longitudinal, lateral, and pid controllers
+├── controller2d 			# contains implementation of longitudinal, lateral, and pid controllers
 ├── cutils							
-├── module_7						# main program
+├── module_7 				# main program
 ├── options.cfg 					
-├── racetrack_wapoints.txt 			# contains reference trackpoints
+├── racetrack_wapoints.txt 	# contains reference trackpoints
 ├── Readme.md
 ```
 
